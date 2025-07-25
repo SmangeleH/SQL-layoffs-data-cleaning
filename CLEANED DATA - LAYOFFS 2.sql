@@ -1,4 +1,4 @@
--- Layoffs Data Cleaning Script (SQL - MySQL Workbench)
+-- Layoffs Data Cleaning (SQL - MySQL Workbench)
 -- Purpose: Prepare the raw layoffs data for analysis by removing duplicates, standardizing text, handling null/blank values, and converting data types.
 
 -- STEP 1: CREATING A STAGING TABLE 
